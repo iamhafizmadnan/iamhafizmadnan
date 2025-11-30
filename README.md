@@ -2,7 +2,8 @@
 <h3 align="center">AI Research Anthusiast . Ai/ML Engineer . Lifelong Learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamhafizmadnan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhafizmadnan" /> </p>
-___
+___  
+
 **About ME**
 
 - 🔭 I’m currently working on **AI/ML Projects**
