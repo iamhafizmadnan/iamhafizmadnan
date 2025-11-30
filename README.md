@@ -52,4 +52,6 @@ ________________________________________________________________________________
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en" alt="iamhafizmadnan" /></p>
 
 ---
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=dark&bgColor=282828)
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhafizmadnan&" alt="iamhafizmadnan" /></p>
