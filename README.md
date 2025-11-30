@@ -2,7 +2,7 @@
 <h3 align="center">AI Research Anthusiast . Ai/ML Engineer . Lifelong Learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamhafizmadnan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhafizmadnan" /> </p>
-____
+_____________________________________________________________________________________________________________________________________________________________
 
 **About ME**
 
@@ -18,10 +18,14 @@ ____
 <p align="left">
 <a href="https://linkedin.com/in/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
 
-<a href="https://kaggle.com/hafizmadanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafizmadanan" height="30" width="40" /></a>
-<a href="https://fb.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
-<a href="https://instagram.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
+<a href="https://kaggle.com/hafizmadanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafizmadanan" height="30" width="40" /></a>  
+
+<a href="https://fb.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamhafizmadnan" height="30" width="40" /></a>  
+
+<a href="https://instagram.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhafizmadnan" height="30" width="40" /></a>  
+
+<a href="https://www.leetcode.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamhafizmadnan" height="30" width="40" /></a>  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
