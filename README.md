@@ -2,8 +2,9 @@
 <h3 align="center">AI Research Anthusiast . Ai/ML Engineer . Lifelong Learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamhafizmadnan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhafizmadnan" /> </p>
----
+___
 **About ME**
+
 - 🔭 I’m currently working on **AI/ML Projects**
 
 - 🌱 I’m currently learning **Artificial Intelligence,Machine Learning,Deep Learning,Ai Automation**
@@ -15,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/hafizmadanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafizmadanan" height="30" width="40" /></a>
 <a href="https://fb.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhafizmadnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhafizmadnan" height="30" width="40" /></a>
