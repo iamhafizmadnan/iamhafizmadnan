@@ -42,19 +42,21 @@
 
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
-       alt="Top Languages">
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
+         alt="Top Languages">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
-       alt="GitHub Stats">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
+         alt="GitHub Stats">
 
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" 
-       alt="LeetCode Stats">
-</div>
+    <!-- LeetCode Stats -->
+    <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" 
+         alt="LeetCode Stats">
+  </div>
+</p>
 
 
 ---
@@ -64,5 +66,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhafizmadnan&" alt="iamhafizmadnan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhafizmadnan&theme=dark" alt="iamhafizmadnan" />
 </p>
