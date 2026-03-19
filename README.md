@@ -42,22 +42,19 @@
 
 
 ---
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
-         alt="Top Languages">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="Top Languages">
 
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
-         alt="GitHub Stats">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
+       alt="GitHub Stats">
 
-    <!-- LeetCode Stats -->
-    <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" 
-         alt="LeetCode Stats">
-  </div>
-</p>
-
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" 
+       alt="LeetCode Stats">
+</div>
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhafizmadnan" alt="iamhafizmadnan" /></a> </p>  
