@@ -62,14 +62,6 @@
 ---  
 
 
-  <!-- Right: LeetCode Stats -->
-  <div style="flex:1; display:flex; justify-content:flex-end;">
-    <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" alt="LeetCode Stats" style="width:90%;">
-  </div>
-</div>
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhafizmadnan&" alt="iamhafizmadnan" />
 </p>
