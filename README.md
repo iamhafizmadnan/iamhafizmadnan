@@ -42,23 +42,18 @@
 
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
-  <!-- Left: Top Languages -->
-  <div style="flex:1; display:flex; justify-content:flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
-         alt="Top Languages">
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="Top Languages">
 
-  <!-- Center: GitHub Stats -->
-  <div style="flex:1; display:flex; justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
-         alt="GitHub Stats">
-  </div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
+       alt="GitHub Stats">
 
-  <!-- Right: LeetCode Stats -->
-  <div style="flex:1; display:flex; justify-content:flex-end;">
-    <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" alt="LeetCode Stats">
-  </div>
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" 
+       alt="LeetCode Stats">
 </div>
 
 
