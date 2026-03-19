@@ -55,20 +55,24 @@
 <p align="left">
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
   <!-- Left: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
-       alt="Top Languages" style="width:48%;">
+  <div style="flex:1; display:flex; justify-content:flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
+         alt="Top Languages" style="width:90%;">
+  </div>
 
-  <!-- Right: GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
-       alt="GitHub Stats" style="width:48%;">
+  <!-- Center: GitHub Stats -->
+  <div style="flex:1; display:flex; justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
+         alt="GitHub Stats" style="width:90%;">
+  </div>
+
+  <!-- Right: LeetCode Stats -->
+  <div style="flex:1; display:flex; justify-content:flex-end;">
+    <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" alt="LeetCode Stats" style="width:90%;">
+  </div>
 </div>
-
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/iamhafizmadnan?theme=dark" alt="LeetCode Stats" />
-</p>  
 
 ---
 
