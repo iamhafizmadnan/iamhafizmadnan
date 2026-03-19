@@ -55,13 +55,15 @@
 <p align="left">
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamhafizmadnan" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <!-- Left: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhafizmadnan&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="Top Languages" style="width:48%;">
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" alt="iamhafizmadnan" />
-</p>
+  <!-- Right: GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhafizmadnan&show_icons=true&locale=en&theme=dark" 
+       alt="GitHub Stats" style="width:48%;">
+</div>
 
 
 <p align="center">
